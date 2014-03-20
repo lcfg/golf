@@ -1,4 +1,2 @@
-md5phpmin
+Golfing
 =========
-
-md5phpmin
