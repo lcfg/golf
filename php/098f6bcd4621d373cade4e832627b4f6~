@@ -1,0 +1,1 @@
+<?foreach($argv as $k):md5($k)==$argv[0]?exit($k):'';endforeach?>
